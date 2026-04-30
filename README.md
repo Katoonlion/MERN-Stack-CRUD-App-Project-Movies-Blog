@@ -1,6 +1,6 @@
 # 🍿 Popcorn Picks
 
-!([./public/screenshot.png](https://img1.pic.in.th/images/Project_03_screen_shot.jpg))
+![Screenshot](https://img1.pic.in.th/images/Project_03_screen_shot.jpg)
 
 ## Description
 
