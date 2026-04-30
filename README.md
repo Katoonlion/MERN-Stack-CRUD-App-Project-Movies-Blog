@@ -22,6 +22,8 @@ This project was built to practice full-stack development, including authenticat
 ## Attributions
 
 - Images and icons used in this project are from publicly available resources.
+- https://www.rottentomatoes.com/
+- http://imdb.com/
 
 
 ## Technologies Used
