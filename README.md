@@ -1,6 +1,6 @@
 # 🍿 Popcorn Picks
 
-![App Screenshot]([./public/screenshot.png](https://img1.pic.in.th/images/Project_03_screen_shot.jpg))
+!([./public/screenshot.png](https://img1.pic.in.th/images/Project_03_screen_shot.jpg))
 
 ## Description
 
@@ -13,16 +13,15 @@ This project was built to practice full-stack development, including authenticat
 
 ## Getting Started
 
-👉 Deployed project link: https://popcorn-picks-frontend.netlify.app/
-👉 Project planning link: https://trello.com/b/eS4m7hwo/mern-stack-crud-appmovie-blog-project
-👉 Front-end GitHub repo link: https://github.com/Katoonlion/Movies-Blog-Front-End
-👉 Back-end GitHub repo link: https://github.com/Katoonlion/Movies-Blog-Back-End
+- Deployed project link: https://popcorn-picks-frontend.netlify.app/
+- Project planning link: https://trello.com/b/eS4m7hwo/mern-stack-crud-appmovie-blog-project
+- Front-end GitHub repo link: https://github.com/Katoonlion/Movies-Blog-Front-End
+- Back-end GitHub repo link: https://github.com/Katoonlion/Movies-Blog-Back-End
 
 
 ## Attributions
 
-- Images from Google Images
-- Icons from Font Awesome
+- Images and icons used in this project are from publicly available resources.
 
 
 ## Technologies Used
